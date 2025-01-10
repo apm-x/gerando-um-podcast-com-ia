@@ -1,7 +1,7 @@
 </a>
 <a href="https://dio.me/">
 <img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    src="https://github.com/apm-x/gerando-um-podcast-com-ia/blob/main/Podcast-Na-Rota-do-Certame.mp3" 
     alt="🔴 LIVE CODE">
 </a>
 </p>
